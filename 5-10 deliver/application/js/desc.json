@@ -1,0 +1,41 @@
+{
+    "home":{
+        "introduce":{
+            "coca_britain":"Coca Cola Great Britain",
+            "coca_introduce":"Founded in 1886 Dr John S Pemberton",
+            "coca_content":"The Coca Cola Company is the world's leading manufacturer, marketer and distributor of non-alcoholic beverage concentrates and syrups, and produces nearly 400 brands."
+        },
+        "coca":{
+            "title_coke":"Coca Cola",
+            "description_coke":"It was 1886, John Pemberton, an Atlanta pharmacist, was inspired by simple curiosity. One afternoon, he stirred up a fragrant, caramel-coloured liquid and, when it was done, the mixture was combined with carbonated water and sampled by customers who all agreed - this new drink was something special!"
+        },
+        "sprite":{
+            "title_sprite":"Sprite",
+            "description_sprite":"First introduced in 1961, crisp, refreshing, clean-tasting Sprite is now the world's leading lemon and lime flavoured soft drink and is sold in more than 190 different countries. Sprite Zero, part of our no sugar Zero range, offers the delicious lemon lime taste of Sprite without the sugar or calories."
+        },
+        "fanta":{
+            "title_fanta":"Fanta",
+            "description_fanta":"'Fanta is a brand of fruit-flavored carbonated soft drinks created by Coca-Cola Deutschland under the leadership of German businessman Max Keith. In the UK, Fanta flavors include Orange, Lemon, and Fruit Twist. Sugar-Free flavors include Orange, Icy Lemon, Fruit Twist, Pink Grapefruit, Grape, Raspberry. All versions of Fanta in the UK contain fruit juice. The current formulation of Fanta was developed in Italy in 1955.'"
+        }
+    },
+    "models":{
+        "coca":{
+            "model_title_coca_cola":"History of Coca Cola",
+            "model_subTitle_coca_cola":"Atlanta Beginnings",
+            "model_description_coca_cola":"It was 1886, and in New York Harbour, workers were constructing the Statue of Liberty. Eight hundred miles away, another great American symbol was about to be unveiled. Like many people who change history, John Pemberton, an Atlanta pharmacist, was inspired by simple curiosity. One afternoon, he stirred up a fragrant, caramel-coloured liquid and, when it was done, he carried it a few doors down to Jacobs' Pharmacy. Here, the mixture was combined with carbonated water and sampled by customers who all agreed - this new drink was something special. So Jacobs' Pharmacy put it on sale for five cents (about 3p a glass."
+            
+        },
+        "sprite":{
+            "model_title_sprite":"Sprite — Fanta Klare Zitrone",
+            "model_subTitle_sprite":"First introduced in 1961",
+            "model_description_sprite":"Crisp, refreshing, clean-tasting Sprite is now the world's leading lemon and lime flavoured soft drink and is sold in more than 190 different countries. Sprite Zero, part of Coca Cola's no sugar Zero range, offers the delicious lemon lime taste of Sprite without the sugar or calories."
+
+        },
+        "fanta":{
+            "model_title_fanta":"The Origins of Fanta",
+            "model_subTitle_fanta":"So let’s start this story at the beginning. Fanta traces its origins back to World War II. At the time, the Coca-Cola business in Germany was one of the world’s most successful, second only to the company’s sales in the United States. The modern version of Fanta. The Fanta we know now was born in Naples, Italy, where in 1955 Coca-Cola began using local citrus to formulate the now famous orange flavour.",
+            "model_description_fanta":"Bright, bubbly and popular, Fanta is the soft drink that intensifies fun. Introduced in 1940, Fanta is the second oldest brand of The Coca-Cola Company."
+      
+        }
+    }
+}
